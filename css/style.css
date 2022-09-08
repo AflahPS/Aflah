@@ -259,37 +259,6 @@ a:hover {
   display: block;
 }
 
-/*------/ Owl Carousel /------*/
-
-/* .owl-theme .owl-dots {
-  text-align: center;
-  margin-top: 18px;
-}
-
-.owl-theme .owl-dots .owl-dot {
-  display: inline-block;
-}
-
-.owl-theme .owl-dots .owl-dot span {
-  width: 18px;
-  height: 7px;
-  margin: 5px 5px;
-  background: #cde1f8;
-  border: 0px solid #cde1f8;
-  display: block;
-  transition: all 0.6s ease-in-out;
-  cursor: pointer;
-}
-
-.owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #cde1f8;
-}
-
-.owl-theme .owl-dots .owl-dot.active span {
-  background-color: #1B1B1B;
-  width: 25px;
-} */
-
 /*--/ Scrolltop s /--*/
 
 .scrolltop-mf {
@@ -816,47 +785,6 @@ a:hover {
   font-size: 1.2rem;
 }
 
-/*======================================
-//--//-->   TESTIMONIALS
-======================================*/
-
-/* .testimonials .owl-carousel .owl-item img {
-  width: auto;
-}
-
-.testimonial-box {
-  color: #fff;
-  text-align: center;
-}
-
-.testimonial-box .author-test {
-  margin-top: 1rem;
-}
-
-.testimonial-box .author-test img {
-  margin: 0 auto;
-}
-
-.testimonial-box .author {
-  color: #fff;
-  text-transform: uppercase;
-  font-weight: 600;
-  margin: 1rem 0;
-  display: block;
-  font-size: 1.4rem;
-}
-
-.testimonial-box .comit {
-  font-size: 2rem;
-  color: #0078ff;
-  background-color: #fff;
-  width: 52px;
-  height: 52px;
-  display: block;
-  margin: 0 auto;
-  border-radius: 50%;
-  line-height: 1.6;
-} */
 
 /*======================================
 //--//-->   BLOG
@@ -914,142 +842,6 @@ a:hover {
 }
 
 /*======================================
-//--//-->   BLOG-SINGLE
-======================================*/
-
-.post-box,
-.form-comments,
-.box-comments,
-.widget-sidebar {
-  padding: 2rem;
-  background-color: #fff;
-  margin-bottom: 3rem;
-}
-
-.blog-wrapper .article-title {
-  font-size: 1.5rem;
-}
-
-.blog-wrapper .post-meta {
-  margin: 1rem 0;
-}
-
-.blog-wrapper .post-meta ul {
-  border-left: 4px solid #0078ff;
-  margin-top: 1rem;
-}
-
-.blog-wrapper .post-meta ul li {
-  display: inline-block;
-  margin-left: 15px;
-}
-
-.blog-wrapper .post-meta ul a {
-  color: #0078ff;
-}
-
-.blog-wrapper .post-meta ul span {
-  color: #1e1e1e;
-}
-
-.blog-wrapper .blockquote {
-  border-left: 4px solid #0078ff;
-  padding: 18px;
-  font-style: italic;
-}
-
-/*------/ Comments /------*/
-
-.box-comments .list-comments li {
-  padding-bottom: 40px;
-}
-
-.box-comments .list-comments .comment-avatar {
-  display: table-cell;
-  vertical-align: top;
-}
-
-.box-comments .list-comments .comment-avatar img {
-  width: 80px;
-  height: 80px;
-}
-
-.box-comments .list-comments .comment-author {
-  font-size: 1.3rem;
-}
-
-.box-comments .list-comments .comment-details {
-  display: table-cell;
-  vertical-align: top;
-  padding-left: 25px;
-}
-
-.box-comments .list-comments a {
-  color: #0078ff;
-}
-
-.box-comments .list-comments span {
-  color: #1e1e1e;
-  font-style: italic;
-}
-
-.box-comments .comment-children {
-  margin-left: 40px;
-}
-
-/*------/ Sidebar /------*/
-
-.widget-sidebar .sidebar-title {
-  font-size: 1.6rem;
-  font-weight: 600;
-  border-left: 5px solid #0078ff;
-  padding-left: 15px;
-  text-transform: uppercase;
-  margin-bottom: 1.5rem;
-}
-
-.widget-sidebar .list-sidebar li {
-  position: relative;
-  padding: 6px 0 6px 24px;
-}
-
-.widget-sidebar .list-sidebar li:before {
-  position: absolute;
-  content: "";
-  width: 10px;
-  height: 1px;
-  left: 0;
-  background-color: #0078ff;
-  top: 20px;
-}
-
-.sidebar-search input {
-  background-color: #fff;
-  border-radius: 0;
-  transition: all 0.5s ease-in-out;
-}
-
-.sidebar-search .btn-search {
-  background-color: #0078ff;
-  border-color: #0078ff;
-  border-radius: 0;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.widget-tags ul li {
-  display: inline-block;
-  background-color: #0078ff;
-  padding: .2rem .6rem;
-  margin-bottom: .5rem;
-  border-radius: 15px;
-}
-
-.widget-tags ul li a {
-  color: #fff;
-}
-
-/*======================================
 //--//-->   CONTACT
 ======================================*/
 
@@ -1061,27 +853,6 @@ a:hover {
   margin-top: 4rem;
 }
 
-/*======================================
-//--//-->   FOOTER
-======================================*/
-
-/* footer {
-  text-align: center;
-  color: #fff;
-  padding-bottom: 4rem;
-}
-
-footer .copyright {
-  margin-bottom: .3rem;
-}
-
-footer .credits {
-  margin-bottom: 0;
-}
-
-footer .credits a {
-  color: #fff;
-} */
 
 /*======================================
 //--//-->   CONtaCT FORM
