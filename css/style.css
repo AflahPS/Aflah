@@ -1,9 +1,4 @@
-/*
-  Theme Name: DevFolio
-  Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
+
 
 /*======================================
 //--//-->   STYLES GENERALES
@@ -221,7 +216,7 @@ a:hover {
 }
 
 .socials .ico-circle:hover {
-  background-color: #445261;
+  background-color: #000000;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
@@ -266,7 +261,7 @@ a:hover {
 
 /*------/ Owl Carousel /------*/
 
-.owl-theme .owl-dots {
+/* .owl-theme .owl-dots {
   text-align: center;
   margin-top: 18px;
 }
@@ -293,7 +288,7 @@ a:hover {
 .owl-theme .owl-dots .owl-dot.active span {
   background-color: #1B1B1B;
   width: 25px;
-}
+} */
 
 /*--/ Scrolltop s /--*/
 
@@ -715,7 +710,7 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color:  #445261;
+  background-color:  #000000;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
@@ -825,7 +820,7 @@ a:hover {
 //--//-->   TESTIMONIALS
 ======================================*/
 
-.testimonials .owl-carousel .owl-item img {
+/* .testimonials .owl-carousel .owl-item img {
   width: auto;
 }
 
@@ -861,7 +856,7 @@ a:hover {
   margin: 0 auto;
   border-radius: 50%;
   line-height: 1.6;
-}
+} */
 
 /*======================================
 //--//-->   BLOG
@@ -1070,7 +1065,7 @@ a:hover {
 //--//-->   FOOTER
 ======================================*/
 
-footer {
+/* footer {
   text-align: center;
   color: #fff;
   padding-bottom: 4rem;
@@ -1086,15 +1081,15 @@ footer .credits {
 
 footer .credits a {
   color: #fff;
-}
+} */
 
 /*======================================
 //--//-->   CONtaCT FORM
 ======================================*/
 
 #sendmessage {
-  color: #445261;
-  border: 1px solid  #445261;
+  color: #24b67e;
+  border: 1px solid #24b67e;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1155,7 +1150,7 @@ footer .credits a {
 }
 
 .button:hover {
-  background-color:  #737f8b;
+  background-color:  #000000;
   color: #fff;
   transition: all 500ms ease;
 }
